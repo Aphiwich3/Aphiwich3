@@ -29,6 +29,7 @@ Hello, I am Aphiwitch Prangtho. I have knowledge and skills in web development. 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go&labelColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
