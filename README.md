@@ -11,7 +11,7 @@ Hello, I am Aphiwitch Prangtho. I have knowledge and skills in web development. 
 </div>
 
 <div id="badges"  align="center">
-  <a href="your-linkedin-URL" target="_blank">
+  <a href="https://www.linkedin.com/in/aphiwich-prangtho-0b769931a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@APHIWICHPRANGTHO-im4qe" target="_blank">
