@@ -35,6 +35,7 @@ Frontend:<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
 <br>
+
 <br>Backend:<br>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go&labelColor=black)
