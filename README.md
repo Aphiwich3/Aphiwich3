@@ -17,9 +17,6 @@ Hello, I am Aphiwitch Prangtho. I have knowledge and skills in web development. 
   <a href="https://www.youtube.com/@APHIWICHPRANGTHO-im4qe" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://apwpt.vercel.app">
-    <img src="https://img.shields.io/badge/Web_profile-black?style=for-the-badge&logo=vercel"/>
-  </a>
   <a target="_blank"href="https://medium.com/@BaseBa1l" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&labelColor=%23000000" />
   </a>
